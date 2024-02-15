@@ -11,8 +11,8 @@ const RandomQuotes = () => {
 
 
     const [quote, setQuote] = useState({
-        text: "Difficulties increase the nearer we get to the goal.",
-        author: "Johann Wolfgang von Goethe",
+        text: "The way to get started is to quit talking and begin doing.",
+        author: "Walt Disney",
     });
 
     const random = () => {
